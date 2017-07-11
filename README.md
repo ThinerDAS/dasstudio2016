@@ -12,7 +12,7 @@ I plan to discard most of the code here, and turn to Python for everything excep
 
 ## How hard is magic tower
 
-It seems like kidding, but, Magic tower is an instance of **NP-complete** problem. We will put the proof in the end.
+It seems like kidding, but magic tower is an instance of **NP-complete** problem. We will put the proof in the end.
 
 However in most cases the magic tower is not that pathological, and can be solved by dynamic programming.
 
@@ -20,9 +20,9 @@ My (old) algorithms for magic tower is partially dynamic programming, partially 
 
 ## What is Magic Tower?
 
-[Tower of the Sorcerer](http://hp.vector.co.jp/authors/VA013374/game/egame0.html) is considered the first instance of magic tower. Magic tower has become created and researched deeply in the twenty years.
+[Tower of the Sorcerer](http://hp.vector.co.jp/authors/VA013374/game/egame0.html) is considered the first instance of magic tower. Magic tower has been created and researched deeply in the twenty years.
 
-Magic tower is a type of puzzle game. The kernel part of the repository is self-explanatory. However, playing the game will make you understand more about the game rules. You can try Tower of the Sorcerer mentioned before for the origin of some of the rules.
+Magic tower is a type of puzzle game. The `kernel` part of the repository is self-explanatory. However, playing the game by hand will make you understand more about the game rules. You can try Tower of the Sorcerer mentioned before for the origin of some of the rules.
 
 ## Content
 
