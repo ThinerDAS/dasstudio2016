@@ -14,9 +14,9 @@ I plan to discard most of the code here, and turn to Python for everything excep
 
 It seems like kidding, but magic tower is an instance of **NP-complete** problem. We will put the proof in the end.
 
-However in most cases the magic tower is not that pathological, and can be solved by dynamic programming.
+However in most cases the magic tower is not that pathological, and can be approximated by dynamic programming.
 
-My (old) algorithms for magic tower is partially dynamic programming, partially AI-some, with some heuristic assumption that helps much for solving a magic tower.
+My (old) algorithms for magic tower is partially dynamic programming, partially AI-some, with some heuristic assumption that helps much for ~~solving~~ approximating a magic tower.
 
 ## What is Magic Tower?
 
