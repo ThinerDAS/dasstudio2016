@@ -1,3 +1,4 @@
+
 # DAS Studio
 
 Welcome everyone to my DAS Studio.
@@ -51,7 +52,7 @@ Magic tower is a type of puzzle game. The `kernel` part of the repository is sel
 
 ## License
 
-The work is inside public domain (except the assets of mt-gui, some of them are not necessarily in public domain, and you may need to replace them to avoid problems; they are only for compilation easiness; also the code that is not authored by me, including zlib and base64(that may be one of the reason why I need to turn to python! )). It is appreciated to mention the author of the code when spreading them, but it is not forced.
+The work is under with MIT license. (except the assets of mt-gui, some of them are not necessarily in public domain, and you may need to replace them to avoid problems; they are only for compilation easiness; also the code that is not authored by me, including zlib and base64(that may be one of the reason why I need to turn to python!))
 
 ## Proof of NP completeness of magic tower
 
